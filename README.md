@@ -1,7 +1,7 @@
 
 # MenuToday <a href="https://youtu.be/e9vTM9W3T0Q?si=pQ6YQmh7OZvHLOJU"> <img src="https://github.com/minyeongg/MenuToday/blob/main/MenuToday_logo.png" align="left" width="100"></a>
 ### 만개의 레시피 크롤링 기반 메뉴 추천 및 레시피 어플
-https://youtu.be/e9vTM9W3T0Q?si=pQ6YQmh7OZvHLOJU
+#### https://youtu.be/e9vTM9W3T0Q?si=pQ6YQmh7OZvHLOJU
 <br>
 
 ## 주요 기능
