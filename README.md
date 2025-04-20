@@ -5,19 +5,17 @@
 <br>
 
 ## 주요 기능
-- 면접 질문 제작
-- 면접 질문 세트 제작
-- 다른 사용자의 질문/세트 가져오기
-- 면접 연습 영상 녹화하기
-- Claude 및 다른 사용자의 피드백 받기
-- 소셜로그인
+- 랜덤 세 가지 메뉴 추천
+- 음식 카테고리 별 메뉴 추천
+- 지역 별 식자재 가격 조회
 
 ## Developers
 **Android** : <a href="https://github.com/minyeongg">박민영</a>
 
-
 ## Tech Stack
 **Language**
-
+- Java 8
+  
 **API**
-
+- 만개의 레시피 사이트 크롤링
+- KAMIS의 최근 일자 지역별 도/소매 가격 정보 api
